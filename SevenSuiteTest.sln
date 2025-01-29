@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenSuiteTest", "SevenSuiteTest\SevenSuiteTest.csproj", "{97C35871-CD63-46F0-BC6B-A25D57BB1781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbService", "DbService\DbService.csproj", "{FE962767-B5AB-4D68-AC1F-46A3C62AF600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C35871-CD63-46F0-BC6B-A25D57BB1781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C35871-CD63-46F0-BC6B-A25D57BB1781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C35871-CD63-46F0-BC6B-A25D57BB1781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C35871-CD63-46F0-BC6B-A25D57BB1781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE962767-B5AB-4D68-AC1F-46A3C62AF600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE962767-B5AB-4D68-AC1F-46A3C62AF600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE962767-B5AB-4D68-AC1F-46A3C62AF600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE962767-B5AB-4D68-AC1F-46A3C62AF600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

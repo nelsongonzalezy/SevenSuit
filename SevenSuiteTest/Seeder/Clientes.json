@@ -1,0 +1,147 @@
+[
+  {
+    "Id": "b1a5a2f2-7c11-4d22-b8df-1c9ff9a6d6b1",
+    "Cedula": "12345678",
+    "Nombre": "Juan Pérez",
+    "Genero": true,
+    "Fecha_nac": "1985-01-15T00:00:00",
+    "Id_EstadoCivil": "11294F7E-D514-4DF2-8685-5CA3293FC2F2",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "c7a1e9d9-6c88-4be5-a62d-2a098e9b8d12",
+    "Cedula": "87654321",
+    "Nombre": "Maria Gómez",
+    "Genero": false,
+    "Fecha_nac": "1990-05-20T00:00:00",
+    "Id_EstadoCivil": "CDA16D01-25BD-4133-9640-FC7F5A4A2B53",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "e38e4b7b-1a5b-4e64-9052-2959585c32bb",
+    "Cedula": "34567890",
+    "Nombre": "Carlos Sánchez",
+    "Genero": true,
+    "Fecha_nac": "1987-03-10T00:00:00",
+    "Id_EstadoCivil": "11294F7E-D514-4DF2-8685-5CA3293FC2F2",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "d19e8b1d-5cd4-4d2c-9b36-1655d3cba2d2",
+    "Cedula": "56789012",
+    "Nombre": "Ana Rodríguez",
+    "Genero": false,
+    "Fecha_nac": "1992-08-25T00:00:00",
+    "Id_EstadoCivil": "CDA16D01-25BD-4133-9640-FC7F5A4A2B53",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "f5027f3a-7a9b-4c0c-9d8b-e55b1f8c3e7b",
+    "Cedula": "78901234",
+    "Nombre": "Pedro López",
+    "Genero": true,
+    "Fecha_nac": "1989-11-11T00:00:00",
+    "Id_EstadoCivil": "11294F7E-D514-4DF2-8685-5CA3293FC2F2",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "8c4b2eb7-91a1-4d4e-9b62-ec1b5b7c7a5b",
+    "Cedula": "90123456",
+    "Nombre": "Luisa Fernández",
+    "Genero": false,
+    "Fecha_nac": "1991-02-28T00:00:00",
+    "Id_EstadoCivil": "CDA16D01-25BD-4133-9640-FC7F5A4A2B53",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "b3f4d7c3-5ad3-4b44-9345-0155b6c4a9b2",
+    "Cedula": "23456789",
+    "Nombre": "Jorge Martínez",
+    "Genero": true,
+    "Fecha_nac": "1988-06-05T00:00:00",
+    "Id_EstadoCivil": "11294F7E-D514-4DF2-8685-5CA3293FC2F2",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "6d1e9f3a-7a2b-4c4d-8b6c-5f3f8e8b1b6d",
+    "Cedula": "45678901",
+    "Nombre": "Carmen Jiménez",
+    "Genero": false,
+    "Fecha_nac": "1993-09-15T00:00:00",
+    "Id_EstadoCivil": "CDA16D01-25BD-4133-9640-FC7F5A4A2B53",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "a5c3d7e8-7b4a-4c2d-9d9e-1c8f9a5a6b2d",
+    "Cedula": "67890123",
+    "Nombre": "Diego Ramírez",
+    "Genero": true,
+    "Fecha_nac": "1990-12-20T00:00:00",
+    "Id_EstadoCivil": "11294F7E-D514-4DF2-8685-5CA3293FC2F2",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "e1f4e7b9-4b4e-4c2c-8b2b-1e9f3a7b4d5b",
+    "Cedula": "89012345",
+    "Nombre": "Laura García",
+    "Genero": false,
+    "Fecha_nac": "1992-04-10T00:00:00",
+    "Id_EstadoCivil": "CDA16D01-25BD-4133-9640-FC7F5A4A2B53",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "a5c3d7e8-7b4a-4c2d-9d9e-1c8f9b5a6b2d",
+    "Cedula": "67890123",
+    "Nombre": "Diego Ramírez",
+    "Genero": true,
+    "Fecha_nac": "1990-12-20T00:00:00",
+    "Id_EstadoCivil": "11294F7E-D514-4DF2-8685-5CA3293FC2F2",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  },
+  {
+    "Id": "e1f4e7b9-4b4e-4c2c-8b2b-1e6f3a7b4d5b",
+    "Cedula": "89012345",
+    "Nombre": "Laura García",
+    "Genero": false,
+    "Fecha_nac": "1992-04-10T00:00:00",
+    "Id_EstadoCivil": "CDA16D01-25BD-4133-9640-FC7F5A4A2B53",
+    "Eliminado": false,
+    "ModificadoPor": "admin",
+    "FechaComidificado": "2025-01-25T12:00:00",
+    "CreadoPor": "admin"
+  }
+
+]
